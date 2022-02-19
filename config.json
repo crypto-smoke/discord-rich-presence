@@ -1,0 +1,25 @@
+{
+  "ClientID": "846539372131385444",
+  "Details": "Multi-Exchange Trading",
+  "State": "Exchanges Connected",
+  "LargeImage": "analytic-icon-11449",
+  "LargeText": "Trade Crypto Like Never Before",
+  "SmallImage": "discord_gradient",
+  "SmallText": "Cryptonovae",
+  "Party": {
+    "ID": "-1",
+    "Players": 2,
+    "MaxPlayers": 5
+  },
+  "Timestamps": {
+    "Start": "2022-02-18T17:59:32.5945388-10:00",
+    "End": null
+  },
+  "Secrets": null,
+  "Buttons": [
+    {
+      "Label": "Trade Now",
+      "Url": "https://cryptonovae.com"
+    }
+  ]
+}
